@@ -1,0 +1,2 @@
+INSERT INTO employee(id, email, employee_role, employee_status, name, password, surname, employee_job) values(2, 'Joachim@gmail.com', 'ROLE_BASIC', 'ACTIVED', 'Joachim', 'pass',
+'Andrzejewski', 'PROGRAMMER')
